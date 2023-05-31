@@ -1,2 +1,3 @@
-# 100-days-of-code
-To keep on evolving it's important to be consistent, here's my 100 days streak 
+For me programming is craetion, something that allows me to convert my ideas and thoughts into reality.
+Here's collection in my way to developmet journey
+Do check it out and share
